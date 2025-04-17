@@ -8,6 +8,6 @@ Bike Sales Dashboard – Advanced Excel
 
 3. Applied find & replace, age group segmentation, text case conversion, and custom design formatting to improve readability and analysis.
 
-Enabled dynamic filtering and insights through slicers and layout design to support data-driven sales decisions.
+4. Enabled dynamic filtering and insights through slicers and layout design to support data-driven sales decisions.
 
 
